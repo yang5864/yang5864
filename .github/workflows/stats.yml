@@ -23,8 +23,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_title=true&locale=kr&include_all_commits=true&disable_animations=true&card_width=460&text_color=374151&icon_color=4B8063&ring_color=83B99A&bg_color=FFFFFF&border_color=D8E1DB&border_radius=6
-          path: profile/stats-light.svg
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_title=true&locale=en&include_all_commits=true&disable_animations=true&card_width=460&text_color=374151&icon_color=4B8063&ring_color=83B99A&bg_color=FFFFFF&border_color=D8E1DB&border_radius=6
+          path: profile/stats-light-en.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
@@ -32,8 +32,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_title=true&locale=kr&include_all_commits=true&disable_animations=true&card_width=460&text_color=CBD5E1&icon_color=83B99A&ring_color=83B99A&bg_color=0D1117&border_color=30363D&border_radius=6
-          path: profile/stats-dark.svg
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_title=true&locale=en&include_all_commits=true&disable_animations=true&card_width=460&text_color=CBD5E1&icon_color=83B99A&ring_color=83B99A&bg_color=0D1117&border_color=30363D&border_radius=6
+          path: profile/stats-dark-en.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
@@ -41,7 +41,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats-light.svg profile/stats-dark.svg
+          git add profile/stats-light-en.svg profile/stats-dark-en.svg
           if git diff --cached --quiet; then
             exit 0
           fi
