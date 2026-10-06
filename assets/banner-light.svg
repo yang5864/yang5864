@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="330" viewBox="0 0 1120 330" role="img" aria-labelledby="title desc">
 <title id="title">yang5864 — Backend &amp; AI</title>
-<desc id="desc">데이터를 연결하고, 서비스로 완성합니다.</desc>
+<desc id="desc">사용자의 문제를 서비스와 AI 자동화로 해결합니다.</desc>
 <rect x="1" y="1" width="1118" height="328" rx="18" fill="#F3F7F8" stroke="#D5E1E7" stroke-width="2"/>
 <path d="M690 1V329M1 270H1119" stroke="#D5E1E7"/>
 <rect x="40" y="40" width="6" height="18" rx="3" fill="#147D67"/>
@@ -8,9 +8,9 @@
 <text x="60" y="54" fill="#5D7182" font-size="16" letter-spacing="3">DEVELOPER PORTFOLIO</text>
 <text x="40" y="126" fill="#162435" font-size="54" font-weight="750" letter-spacing="-2">yang5864<tspan fill="#147D67">.</tspan></text>
 <text x="42" y="173" fill="#147D67" font-size="27" font-weight="600">Backend &amp; AI</text>
-<text x="42" y="224" fill="#5D7182" font-size="24">데이터를 연결하고, 서비스로 완성합니다.</text>
+<text x="42" y="224" fill="#5D7182" font-size="21">사용자의 문제를 서비스와 AI 자동화로 해결합니다.</text>
 <text x="42" y="307" fill="#5D7182" font-size="16">Java / Spring / Python</text>
-<text x="1076" y="307" text-anchor="end" fill="#5D7182" font-size="16">SELECTED WORK · 01—04</text>
+<text x="1076" y="307" text-anchor="end" fill="#5D7182" font-size="16">BACKEND · AI · AUTOMATION</text>
 </g>
 <g fill="none" stroke="#D5E1E7" stroke-width="2">
 <path d="M748 147H870Q896 147 896 121V93H986M870 147Q896 147 896 173V205H986"/>
