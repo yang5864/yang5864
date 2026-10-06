@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="330" viewBox="0 0 1120 330" role="img" aria-labelledby="title desc">
+<title id="title">yang5864 — Backend &amp; AI</title>
+<desc id="desc">데이터를 연결하고, 서비스로 완성합니다.</desc>
+<rect x="1" y="1" width="1118" height="328" rx="18" fill="#101A26" stroke="#273847" stroke-width="2"/>
+<path d="M690 1V329M1 270H1119" stroke="#273847"/>
+<rect x="40" y="40" width="6" height="18" rx="3" fill="#81E3C0"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans KR, Apple SD Gothic Neo, sans-serif">
+<text x="60" y="54" fill="#A8B8C8" font-size="16" letter-spacing="3">DEVELOPER PORTFOLIO</text>
+<text x="40" y="126" fill="#F4F7FA" font-size="54" font-weight="750" letter-spacing="-2">yang5864<tspan fill="#81E3C0">.</tspan></text>
+<text x="42" y="173" fill="#81E3C0" font-size="27" font-weight="600">Backend &amp; AI</text>
+<text x="42" y="224" fill="#A8B8C8" font-size="24">데이터를 연결하고, 서비스로 완성합니다.</text>
+<text x="42" y="307" fill="#A8B8C8" font-size="16">Java / Spring / Python</text>
+<text x="1076" y="307" text-anchor="end" fill="#A8B8C8" font-size="16">SELECTED WORK · 01—04</text>
+</g>
+<g fill="none" stroke="#273847" stroke-width="2">
+<path d="M748 147H870Q896 147 896 121V93H986M870 147Q896 147 896 173V205H986"/>
+<path d="M986 93V205" stroke-dasharray="5 7"/>
+</g>
+<g fill="#172533" stroke="#273847" stroke-width="2">
+<rect x="736" y="116" width="132" height="64" rx="12"/>
+<rect x="938" y="61" width="134" height="64" rx="12"/>
+<rect x="938" y="173" width="134" height="64" rx="12"/>
+</g>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" fill="#F4F7FA" text-anchor="middle" font-size="20" font-weight="600">
+<text x="802" y="155">DATA</text><text x="1005" y="100">API</text><text x="1005" y="212">AI</text>
+</g>
+<circle cx="896" cy="147" r="6" fill="#81E3C0"/>
+<circle cx="802" cy="210" r="3" fill="#81E3C0"/><circle cx="815" cy="210" r="3" fill="#273847"/><circle cx="828" cy="210" r="3" fill="#273847"/>
+</svg>
