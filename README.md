@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=20261007">
-  <img src="./assets/banner-light.svg?v=20261007" alt="yang5864 — 사용자의 문제를 서비스와 AI 자동화로 해결하는 백엔드 개발자" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yang5864/yang5864/de49ba3/assets/banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/yang5864/yang5864/de49ba3/assets/banner-light.svg" alt="yang5864 — 사용자의 문제를 서비스와 AI 자동화로 해결하는 백엔드 개발자" width="100%">
 </picture>
 
 <p align="center">
