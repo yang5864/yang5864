@@ -4,7 +4,7 @@
 
 ## About Me
 
-**사용자의 문제를 서비스와 AI 자동화로 해결하는 백엔드 개발자 양승환입니다.**
+**계산은 서버가 책임지고, AI는 검증된 결과를 설명하게 하는 백엔드 개발자 양승환입니다.**
 
 Java·Spring 기반 로직부터 AI 연동, 성능 개선, 배포까지 구현합니다.
 직접 운영하는 블로그와 알고리즘 스터디에서 문제를 발견하고,
@@ -46,7 +46,7 @@ Java·Spring 기반 로직부터 AI 연동, 성능 개선, 배포까지 구현�
 중소 마케팅 대행사가 캠페인·증빙·정산 이력을 축적하고, 검증된 크리에이터와 다시 협업할 수 있도록 만드는 서비스입니다.
 
 - 캠페인 신청 수락·에스크로 생성·미션 생성을 하나의 트랜잭션으로 묶고, 실패 시 전체를 롤백하도록 구현했습니다.
-- 에스크로 캠페인 MVP를 구현·배포한 뒤, 반복 협업 이력이 쌓이는 Creator Operations CRM으로 제품 범위를 구체화했습니다.
+- 약 8주 만에 에스크로 캠페인 MVP를 구현·배포했습니다. 블로그 운영자 20명 중 16명의 긍정 응답을 확인한 뒤 실제 구매 주체인 마케팅 대행사로 검증을 넓혀, 반복 협업 이력이 쌓이는 Creator Operations CRM으로 제품 범위를 구체화했습니다.
 
 [프로젝트 소개](https://github.com/Pacto-Developers) · [백엔드 코드](https://github.com/Pacto-Developers/Pacto-backend)
 
@@ -69,7 +69,7 @@ Java·Spring 기반 로직부터 AI 연동, 성능 개선, 배포까지 구현�
 Next.js·Supabase와 AWS EC2의 Judge0을 연결해 풀이부터 제출 이력까지 이어지는 학습 환경을 만들었습니다.
 
 - 공개된 문제 조건을 바탕으로 자체 테스트 케이스를 작성하고, 배치 채점과 진행 상태 전달을 구현했습니다.
-- 사용자 승인·사용량 제한을 적용하고, 채점 서버의 디스크 부족 장애를 복구했습니다.
+- 관리자 승인과 사용자별 하루 채점 20회·실행 50회 한도를 적용하고, 20GB 디스크가 가득 찬 채점 서버 장애를 정리 후 30GB로 확장해 복구했습니다.
 - 서버 장애와 사용자 코드 오류를 구분해 결과를 안내하도록 개선했습니다.
 
 ## More Projects
@@ -79,7 +79,8 @@ Next.js·Supabase와 AWS EC2의 Judge0을 연결해 풀이부터 제출 이력�
 | BitOracle | GRU 시계열 모델 실험, 전처리와 FastAPI 추론 서버 개발 | [AI 서버](https://github.com/BitOracle-bitoracle/bitoracle-ai-server) |
 | Ya-Geum | 5인 팀장, 거래 화면·API·챌린지 데이터 설계, Railway Volume으로 재배포 후 데이터 유지 | [프론트엔드](https://github.com/yang5864/Ya-Geum) · [백엔드](https://github.com/yang5864/yageum-backend) |
 | Tetz Bot | 스터디 운영 자동화. 1기에는 AI 난이도 평가·외부 API 교차검증, 현재 2기에는 인증·제출 확인과 중복 갱신 방지 | [코드](https://github.com/yang5864/Slack-msg) |
-| Eobuba | 5인 팀으로 시니어 은행 방문 준비·금융사기 예방 서비스 기획과 프로토타입 제작에 참여 | 아래 해커톤 수상내역 |
+| AI_TOP_100 상담 에이전트 | 1인·5시간 예선. 고객 동의 전 실행 차단, 인젝션 환불 발견·차단, 공개 테스트 15건 중 13건 재현 | [코드](https://github.com/yang5864/kakao-ai-top100-bot) |
+| Eobuba | 5인 팀 AI·안전 백엔드. CLOVA 음성 인식, 8종 업무 코드 제한, 원문 근거 기반 사기 경고, KB 해커톤 장려상 | [백엔드](https://github.com/eobuba-official/backend) |
 
 ## Activities & Writing
 
@@ -93,8 +94,9 @@ Next.js·Supabase와 AWS EC2의 Judge0을 연결해 풀이부터 제출 이력�
 | Period | Activity | Experience |
 | :--- | :--- | :--- |
 | 2026.03–2026.08 | KB IT's Your Life 7기 수료 | Java·Spring·DB·클라우드 학습과 팀 프로젝트 |
-| 2026.05 | 모두의 창업 프로젝트 1기 도전 | Pacto의 문제 정의와 창업 아이디어 구체화 |
-| 2026.09 | KB IT's Your Life 해커톤 본선 | 팀 효도과자·어부바 서비스 기획·프로토타입 |
+| 2026.06 / 2026.10 | 모두의 창업 프로젝트 1기·2기 도전 경력 인증 | Pacto의 문제 정의와 창업 아이디어 구체화 |
+| 2026.10 | AI_TOP_100 [2026] 온라인 예선 | 1인·5시간 고객 응대 에이전트 설계·구현·제출 |
+| 2026.09 | KB IT's Your Life 해커톤 본선 | 팀 효도과자·어부바 AI·안전 백엔드 |
 | 2023.01–2023.02 | KG IT Bank C·Java 과정 수료 | 128시간의 프로그래밍·객체지향 실습 |
 
 ## Awards & Recognition
@@ -109,8 +111,10 @@ Next.js·Supabase와 AWS EC2의 Judge0을 연결해 풀이부터 제출 이력�
 
 ## Certifications
 
+- **정보처리기사** · 필기 합격, 2026년 제3회 실기 가채점 합격(최종 발표 대기)
 - **AWS Certified Cloud Practitioner** · 2025.12 취득
 - **SQLD** · 2025.09 취득
+- **TOEIC 880 · TOEIC Speaking IH**
 
 ## How I Build
 

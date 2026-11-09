@@ -6,7 +6,7 @@
 
 ### About Me
 
-<p>사용자의 문제를 서비스와 AI 자동화로 해결하는 백엔드 개발자입니다.<br>직접 만들고 운영하며, 배운 것을 기록합니다.</p>
+<p><b>계산은 서버가 책임지고, AI는 검증된 결과를 설명하게 합니다.</b><br>Java·Spring 백엔드에 LLM을 붙이고 그 결과를 서버 규칙으로 검증합니다.<br>직접 만든 서비스는 운영하고, 장애까지 복구합니다.</p>
 
 ### Tech Stack
 
@@ -37,45 +37,49 @@
 
 ## 💼 Experience
 
-- **KB IT's Your Life 7기** (2026.03–2026.08)
-- [KB IT's Your Life 7기 기자단](https://blog.naver.com/shy_fr00)(2026.03–2026.08)
-- **모두의 창업 프로젝트 1기**, 도전 참여 (2026.05)
-- **KG IT Bank** (2023.01–2023.02)
+- **KB IT's Your Life 7기** 수료 (2026.03–2026.08)
+- [KB IT's Your Life 7기 기자단](https://blog.naver.com/shy_fr00) · 최우수 기자상 (2026.03–2026.08)
+- **AI_TOP_100 [2026] 온라인 예선** · 1인 참가 (2026.10)
+- **모두의 창업 프로젝트** · 1기·2기 도전 경력 인증 (2026.06 / 2026.10)
+- **KG IT Bank** C·Java 과정 수료 (2023.01–2023.02)
 
 ## 💻 Projects
 
-- [제대로](https://github.com/BellongBellong/Jaedaero_backend), 백엔드·AI 개발 · 6인 팀 (2026.07–2026.08)
-- [Pacto](https://github.com/Pacto-Developers/Pacto-backend), 팀장·백엔드 개발 · 4인 팀 (2026.04-2026.08)
-- [BitOracle](https://github.com/BitOracle-bitoracle/bitoracle-ai-server), 시계열 AI 모델·추론 API 개발 (2025.03–2025.12)
-- [어부바](./PORTFOLIO.md#more-projects), 시니어 금융지원 서비스 기획·프로토타입 · 5인 팀 (2026.09)
-- [BlogLife](./PORTFOLIO.md#03--bloglife), 블로그 자동화 앱 · 개인 기획·개발·운영 (2025.12~)
-- [YOJ](https://boj-frontend.vercel.app/), 스터디용 온라인 저지 · 개인 기획·개발·운영 (2026.04-2026.08)
-- [Ya-Geum](https://github.com/yang5864/Ya-Geum), 팀장·거래 화면·API 설계 · 5인 팀 (2026.04–2026.05)
-- [Tetz Bot](https://github.com/yang5864/Slack-msg), 스터디 운영 봇 · 개인 개발 (2026.03~)
+- [AI 고객 응대 에이전트](https://github.com/yang5864/kakao-ai-top100-bot) — AI_TOP_100 예선 1인·5시간. 인젝션 환불을 테스트로 찾아 차단, 공개 테스트 15건 중 13건 재현 (2026.10)
+- [어부바](https://github.com/eobuba-official/backend) — AI·안전 백엔드. 허용 업무 코드·원문 근거 기반 사기 경고, KB 해커톤 장려상 · 5인 팀 (2026.09)
+- [제대로](https://github.com/BellongBellong/Jaedaero_backend) — AI·알림 백엔드, 성능 개선·배포. 랭킹 조회 p95 12.77초→22.87ms(로컬 100 VU) · 6인 팀 (2026.07–2026.08)
+- [Pacto](https://github.com/Pacto-Developers/Pacto-backend) — 팀장·백엔드. 약 8주 만에 에스크로 MVP 배포, 블로그 운영자 20명 중 16명 긍정 응답 · 4인 팀 (2026.04~)
+- [YOJ](https://boj-frontend.vercel.app/) — 스터디 온라인 저지 1인 기획·개발·운영. 채점 서버 디스크 장애 복구(20GB→30GB) (2026.04~)
+- [Tetz Bot](https://github.com/yang5864/Slack-msg) — 18명 스터디 인증·평가 자동화, AI 난이도는 외부 API로 교차 검증 (2026.03~)
+- [BlogLife](./PORTFOLIO.md#03--bloglife) — 블로그 자동화 데스크톱 앱 1인 기획·개발·운영 (2025.12~)
+- [BitOracle](https://github.com/BitOracle-bitoracle/bitoracle-ai-server) — GRU 시계열 모델·추론 API, 전공종합설계 (2025.03–2025.12)
+- [Ya-Geum](https://github.com/yang5864/Ya-Geum) — 팀장·거래 화면·API 설계 · 5인 팀 (2026.04–2026.05)
 
 ## 🛠️ Skills
 
 - **Language** — Java, Python, TypeScript
 - **Backend** — Spring MVC, Spring Boot, FastAPI, MyBatis, JPA
 - **Data** — MySQL, PostgreSQL, Redis, Supabase
-- **AI / Automation** — TensorFlow·GRU, LLM API, Selenium·CDP
+- **AI / Automation** — LLM API(Structured Output·tool calling), TensorFlow·GRU, Selenium·CDP
 - **Frontend** — Vue 3·Pinia, Next.js
-- **Infra / DevOps** — AWS EC2·ECR·SSM, Docker, GitHub Actions
-- **Observability / Quality** — Prometheus, Grafana, k6, pytest
+- **Infra / DevOps** — AWS EC2·ECR·SSM, Docker, GitHub Actions·OIDC
+- **Observability / Quality** — Prometheus, Grafana, k6, pytest, vitest
 
 ## 🎓 Education
 
-- **숭실대학교**, 컴퓨터학부 학사 (2020.03-2026.08 `졸업`)
+- **숭실대학교**, 컴퓨터학부 학사 (2026.08 `졸업`) · 빅데이터컴퓨팅 마이크로디그리 이수
 
 ## 🏆 Awards & Recognition
 
 - **2026 KB IT's Your Life 해커톤 장려상** (2026.09.10)
+- **2026 금융권 공동채용 박람회 IBK기업은행 우수면접자 선정** (2026.09)
 - **KB IT's Your Life 7기 최우수 기자상** (2026.08.27)
 - **KB IT's Your Life 1단위기간 우수훈련생** (2026.04.07)
-- **2026 금융권 공동채용 박람회 IBK기업은행 우수면접자 선정** (2026.09)
 - **제23경비여단장 표창** (2022.06.12)
 
 ## 📜 Certifications
 
+- **정보처리기사** — 필기 합격, 2026년 제3회 실기 가채점 합격(최종 발표 대기)
 - **AWS Certified Cloud Practitioner** (2025.12)
 - **SQLD** (2025.09)
+- **TOEIC 880 · TOEIC Speaking IH**
